@@ -2,6 +2,8 @@
 
 https://stellar.expert/explorer/testnet/contract/CCEVP7CTAYEXTDB7BTFNFQQ5SUVAIVHKPKSFCXSPBHTV2SCXSOMZTGVO
 
+Contact Address: CCEVP7CTAYEXTDB7BTFNFQQ5SUVAIVHKPKSFCXSPBHTV2SCXSOMZTGVO
+
 # 🚀 Data Marketplace on Stellar (Soroban)
 
 ## 📌 Project Description
